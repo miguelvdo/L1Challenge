@@ -1,0 +1,11 @@
+p {color: orange;
+ }
+h1 {color: blue;}
+h2 {color: darkblue;}
+li {color:orange;}
+
+div {
+	background-color:azure;
+	border:1px solid orange;
+	padding:30px;
+}
